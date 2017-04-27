@@ -11,12 +11,8 @@ Demo Markdown presentation
 ### GitPitch turns PITCHME.md into interactive, online slideshows.
 [Just like this one]
 
----
-
 ---?gist=cf4227416b55dac54a53
 
 ---
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-
----
