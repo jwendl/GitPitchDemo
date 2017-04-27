@@ -11,9 +11,7 @@ Demo Markdown presentation
 ### GitPitch turns PITCHME.md into interactive, online slideshows.
 [Just like this one]
 
-+++
-
-?gist=28ee3d19ddef9d51b15adbdfe9ed48da
+---?gist=28ee3d19ddef9d51b15adbdfe9ed48da
 
 ---
 
